@@ -78,4 +78,4 @@ async def announce(
         await interaction.response.send_message(f"❌ 發布失敗：{e}", ephemeral=True)
 
 # 啟動機器人
-bot.run('MTU1OTg3NjY1MDIzMTkyNjkwNQ.GtTm4v.q9vjLqL08ePXZxtqy0nL6wAXT3PkMtRfFGTaC8')
+bot.run('MTU1OTg3NjY1MDIzMTkyNjkwNQ.GN6sLF.J19cc9VOXluU1Y7YOy_tOmhNU5IBaBqE-6Gc8c')
